@@ -1,0 +1,6 @@
+# Ignore data and cache files
+__pycache__/
+*.pkl
+*.csv
+*.ipynb_checkpoints
+.DS_Store
